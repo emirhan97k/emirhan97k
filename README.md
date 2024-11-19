@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @emirhan97k
-- 👀 I’m interested in Computers
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java
